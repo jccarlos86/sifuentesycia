@@ -1,0 +1,34 @@
+.cabecera{
+    /*background-image: url(../img/banner_principal.JPG);*/
+    background-image: url(../img/banner1.jpg);
+    height: 600px;
+}
+#logo{
+    width:50px;
+}
+/*
+.titulo{
+    width: 100%;
+    margin: 0 auto;
+    padding: 300px;
+}
+*/
+.texto-titulo{
+    font-size: 50pt;
+    padding: 40px;
+    margin: 10px;
+}
+.presentacion{
+    width:80%;
+    margin: 0 auto;
+}
+.cuerpo{
+    background-color: #232323;
+    padding: 100px 50px;
+}
+.card-img-top{
+    max-height: 300px;
+}
+.separador{
+    height: 20px
+}
